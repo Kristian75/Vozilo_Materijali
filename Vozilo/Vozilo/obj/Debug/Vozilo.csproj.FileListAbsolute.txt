@@ -1,0 +1,5 @@
+C:\Users\Ucenik\source\repos\Vozilo\Vozilo\obj\Debug\Vozilo.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Vozilo\Vozilo\obj\Debug\Vozilo.Form1.resources
+C:\Users\Ucenik\source\repos\Vozilo\Vozilo\obj\Debug\Vozilo.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Vozilo\Vozilo\obj\Debug\Vozilo.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Vozilo\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
